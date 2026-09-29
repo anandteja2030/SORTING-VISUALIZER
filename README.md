@@ -237,7 +237,7 @@ This project helps in understanding:
 - Sound Effects During Sorting
 - Dark/Light Theme Toggle
 - Export Sorting Statistics
-- More Customization Options
+- More Customization Options 
 
 ---
 
