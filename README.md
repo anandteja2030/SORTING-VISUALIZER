@@ -5,7 +5,7 @@ An interactive **Sorting Visualizer** built using **HTML, CSS, and JavaScript** 
 This project provides an engaging way to learn sorting techniques by displaying each array element as a vertical bar and animating every comparison, swap, and sorting step. It also includes performance statistics, customizable arrays, and step-by-step execution for a better learning experience.
 
 ---
-
+                                                              
 # ✨ Features
 
 - 🎯 Visual representation of sorting algorithms
@@ -37,7 +37,7 @@ This project provides an engaging way to learn sorting techniques by displaying 
 
 ---
 
-# 📊 Algorithm Complexity
+# 📊 Algorithm Complexity        
 
 | Algorithm | Best | Average | Worst | Space |
 |------------|------|---------|--------|--------|
